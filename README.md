@@ -4,8 +4,6 @@
     <td>
       <h1>Tianxiang Chen</h1>
       <p><b>E-mail：txchen@mail.ustc.edu.cn</b></p>
-      <p><b>Address：Rm××, ×× Building, ×× University, ×× Road, Nanjing</b></p>
-      <a href="/index.html">中文版</a>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
